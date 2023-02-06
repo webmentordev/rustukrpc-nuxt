@@ -43,3 +43,9 @@ link{
 .container{
     @apply max-w-6xl m-auto;
 }
+.servers-header{
+    background-image: url('../images/servers_bg.jpg');
+}
+.rules-header{
+    background-image: url('../images/bottom-bg.jpg');
+}

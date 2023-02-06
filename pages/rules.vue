@@ -1,6 +1,6 @@
 <template>
     <div>
-        <div class="bg-cover bg-center min-h-[450px] relative flex items-center justify-center" style="background-image: url('/_nuxt/assets/images/bottom-bg.jpg');">
+        <div class="bg-cover bg-center min-h-[450px] relative flex items-center justify-center rules-header">
             <div class="bg-black bg-opacity-40 backdrop-blur-md absolute w-full h-full"></div>
             <h1 class="text-7xl relative z-20 text-white mt-3">Server Rules</h1>
         </div>
