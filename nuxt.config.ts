@@ -1,7 +1,8 @@
 // https://nuxt.com/docs/api/configuration/nuxt-config
 export default defineNuxtConfig({
     modules: [
-        '@nuxtjs/tailwindcss'
+        '@nuxtjs/tailwindcss',
+        'nuxt-icons'
     ],
     app: {
         head: {
@@ -13,7 +14,7 @@ export default defineNuxtConfig({
             ],
             link: [
                 {
-                    rel: 'icon', type: 'image/x-icon', href: "/_nuxt/assets/images/rs_favicon.png"
+                    rel: 'icon', type: 'image/x-icon', href: "https://cdn.discordapp.com/attachments/1071817254448140291/1072246872128888832/rs_favicon.png"
                 }
             ]
         }
